@@ -61,6 +61,8 @@ career-profile:
         - j'anime des Twitch (https://bit.ly/twitch-replays)
         - j'écris des articles pour le magazine Programmez.
         - j'écris des blog posts techniques sur mon blog personnel (https://philippart-s.github.io/blog/)
+      
+      Au sein de mes différentes équipes j'ai souvent endossé le rôle de team lead (ou tech lead) afin d'organiser au mieux l'équipe mais aussi de définir la stratégie de l'équipe.
 
 education:
     title: Formation
@@ -84,7 +86,7 @@ education:
 experiences:
     title: Experiences professionnelles
     info:
-      - role: Developer Advocate / Developer Relation 
+      - role: Team lead Developer Advocate / Developer Relation 
         time: 2022 - Aujourd'hui
         company: OVHcloud, Paris
         details: |
@@ -93,16 +95,18 @@ experiences:
           Technical writer pour les guides officiels et des blog posts d'entreprise.  
           Participation aux conférences en tant qu'orateur et tenue de stand.  
           Animations des communautés de développement en interne et en externe.  
-          Développement de POC et démos.
+          Développement de POC et démos.  
+          Organisation et animation de la vie d'équipe en tant que team lead (4 personnes).
 
-      - role: Architecte Logiciel / Platform engineer
+      - role: Tech lead Architecte Logiciel / Platform engineer
         time: 2008 - 2022
         company: Harmonie-Mutuelle, Tours
         details: |
           Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB).  
           Développement de Frameworks internes (SpringBoot & Angular).  
           Conception et réalisation de la plateforme d'intégration continue basée sur Jenkins 2 (“pipelines as code”), SonarQube et GitHub.   
-          Mise en place de la chaîne “CI / CD” sur OpenShift.
+          Mise en place de la chaîne “CI / CD” sur OpenShift.  
+          Organisation et animation de la vie d'équipe en tant que tech lead (5 personnes).
 
       - role: Ingénieur logiciel Java / JEE 
         time: 2006 - 2008
@@ -160,7 +164,7 @@ skills:
 
     toolset:
       - name: AI (Machine Learning)
-        level: 90%
+        level: 95%
       - name: Tech writer
         level: 100%
       - name: Speaker
@@ -175,7 +179,7 @@ skills:
       - name: Java
         level: 98%
       - name: Python
-        level: 60%
+        level: 70%
 
       - name: Docker
         level: 90%

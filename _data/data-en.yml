@@ -62,6 +62,8 @@ career-profile:
         - I write articles for the magazine Programmez.
         - I write technical blog posts on my personal blog (https://philippart-s.github.io/blog/)
 
+      Within my different teams I have often assumed the role of team lead (or tech lead) in order to organize the team as well as to define the team's strategy.
+
 education:
     title: Education
     info:
@@ -94,6 +96,7 @@ experiences:
           Participation in conferences as a speaker and stand management.  
           Animations of development communities internally and externally.  
           POC development and demos.  
+          Organization and animation of the team life as team lead (4 people).
       - role: Software Architect / Platform engineer
         time: 2008 - 2022
         company: Harmonie-Mutuelle, Tours
@@ -101,8 +104,8 @@ experiences:
           Provision of bases for development teams: Spring, JEE, Angular, Business Works (ESB).  
           Development of internal frameworks (based on SpringBoot & Angular).  
           Design and implementation of the continuous integration platform based on Jenkins 2 ("pipelines as code"), SonarQube and GitHub.  
-          Implementation of the "CI / CD" channel on OpenShift.
-          
+          Implementation of the "CI / CD" channel on OpenShift.  
+          Organisation et animation de la vie d'équipe en tant que tech lead (5 personnes).          
       - role: Java / JEE Software Engineer
         time: 2006 - 2008
         company: Apside TOP, Tours
