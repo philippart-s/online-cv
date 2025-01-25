@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Stéphane Philippart
-    tagline: Developer Advocate / Developer Relation
+    tagline: Developer Relation / Technical Writer
     avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -60,7 +60,8 @@ career-profile:
         - je suis animateur d'un podcast mensuel (Tranches de Tech : https://podcast.ausha.co/tranches-de-tech).
         - j'anime des Twitch (https://bit.ly/twitch-replays)
         - j'écris des articles pour le magazine Programmez.
-        - j'écris des blog posts techniques sur mon blog personnel (https://philippart-s.github.io/blog/)
+        - j'écris des documentations et blog posts pour mon entreprise
+        - j'écris des blog posts techniques sur mon blog personnel (https://philippart-s.github.io/blog/) 
       
       Au sein de mes différentes équipes j'ai souvent endossé le rôle de team lead (ou tech lead) afin d'organiser au mieux l'équipe mais aussi de définir la stratégie de l'équipe.
 

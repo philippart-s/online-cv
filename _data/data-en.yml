@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Stéphane Philippart
-    tagline: Developer Advocate / Developer Relation
+    tagline: Developer Relation / Technical Writer
     avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,10 +56,11 @@ career-profile:
       Sharing is an essential element for me: that's why I co-created an association whose goal is to organize meetups around agility and DevOps: TADx. 
       
       Always with the aim of sharing:
-        - I am a speaker at conferences (all my conferences are available here: https://noti.st/philippart-s).
-        - I am a monthly podcast host (Tranches de Tech : https://podcast.ausha.co/tranches-de-tech).-
+        - I am a speaker at conferences (all my conferences are available here: https://noti.st/philippart-s)
+        - I am a monthly podcast host (Tranches de Tech : https://podcast.ausha.co/tranches-de-tech)
         - I host Twitch (https://bit.ly/twitch-replays)
-        - I write articles for the magazine Programmez.
+        - I write articles for the magazine Programmez
+        - I write blog post and documentation for my company
         - I write technical blog posts on my personal blog (https://philippart-s.github.io/blog/)
 
       Within my different teams I have often assumed the role of team lead (or tech lead) in order to organize the team as well as to define the team's strategy.
@@ -162,23 +163,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: AI (Machine Learning)
-        level: 90%
       - name: Tech writer
         level: 100%
+      - name: AI (Machine Learning)
+        level: 90%
       - name: Speaker
         level: 100%
       - name: Evangelisation
         level: 100%
-      - name: Cloud
-        level: 95%
-      - name: Technical and software architecture
-        level: 90%
-
-      - name: Java
-        level: 98%
-      - name: Python
-        level: 60%
 
       - name: Docker
         level: 90%
@@ -189,5 +181,15 @@ skills:
         level: 98%
       - name: DevOps
         level: 90%
+
+      - name: Cloud
+        level: 95%
+      - name: Technical and software architecture
+        level: 90%
+
+      - name: Java
+        level: 98%
+      - name: Python
+        level: 60%
 
 footer: >
