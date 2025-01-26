@@ -89,7 +89,7 @@ experiences:
     info:
       - role: Developer Relation
         time: 2022 - Today
-        company: OVHcloud, Paris
+        company: OVHcloud, Paris - AI/ML - IaC - Cloud Native - Docker - Java - Python 
         details: |
           Developer Advocate within the OVHcloud public cloud teams and more specifically Artificial Intelligence and native cloud.  
           Zero client with product teams to test products.  
@@ -100,29 +100,29 @@ experiences:
           Organization and animation of the team life as team lead (4 people).
       - role: Software Architect / Platform engineer
         time: 2008 - 2022
-        company: Harmonie-Mutuelle, Tours
+        company: Harmonie-Mutuelle, Tours - Java - Jenkins - Docker - Kubernetes - CI/CD
         details: |
           Provision of bases for development teams: Spring, JEE, Angular, Business Works (ESB).  
           Development of internal frameworks (based on SpringBoot & Angular).  
           Design and implementation of the continuous integration platform based on Jenkins 2 ("pipelines as code"), SonarQube and GitHub.  
           Implementation of the "CI / CD" channel on OpenShift.  
-          Organisation et animation de la vie d'équipe en tant que tech lead (5 personnes).          
+          Organization and animation of the team life as team lead (5 personnes).          
       - role: Java / JEE Software Engineer
         time: 2006 - 2008
-        company: Apside TOP, Tours
+        company: Apside TOP, Tours - Java - JEE - HTML - CSS
         details: |
           Implementation of web applications as a JEE expert in service at Coface Services and support of internal staff in their skills development.  
           Role of tech lead within the teams.
 
       - role: Head of Technical Project
         time: 2004 - 2006
-        company: Delta Informatique, Tours
+        company: Delta Informatique, Tours - Java - JEE - HTML - CSS
         details: |
           Websites development (banking and insurance sector) in JEE (deployed on Weblogic) as expert developer and then technical project manager (technical specifications, development and implementation at customers) on the same technologies.
 
       - role: Java / JEE Engineer
         time: 2002 - 2004
-        company: Prima Solutions, Paris
+        company: Prima Solutions, Paris - Java - JEE - HTML - CSS
         details: |
           Front end and back end development in the insurance sector and for the website assurland.com. Customer support for the deployment of JEE / Weblogic solutions.
 

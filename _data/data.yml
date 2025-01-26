@@ -89,7 +89,7 @@ experiences:
     info:
       - role: Team lead Developer Advocate / Developer Relation 
         time: 2022 - Aujourd'hui
-        company: OVHcloud, Paris
+        company: OVHcloud, Paris - AI/ML - IaC - Cloud Native - Docker - Java - Python 
         details: |
           Developer Advocate au sein des équipes public cloud d'OVHcloud et plus particulièrement d'Intelligence Artificielle et cloud native.  
           Client zéro auprès des équipes produits pour tester les produits.  
@@ -100,8 +100,8 @@ experiences:
           Organisation et animation de la vie d'équipe en tant que team lead (4 personnes).
 
       - role: Tech lead Architecte Logiciel / Platform engineer
-        time: 2008 - 2022
-        company: Harmonie-Mutuelle, Tours
+        time: 2008 - 2022 
+        company: Harmonie-Mutuelle, Tours - Java - Jenkins - Docker - Kubernetes - CI/CD
         details: |
           Mise à disposition de socles pour les équipes de développement : Spring*, JEE, Angular, Business Works (ESB).  
           Développement de Frameworks internes (SpringBoot & Angular).  
@@ -111,20 +111,20 @@ experiences:
 
       - role: Ingénieur logiciel Java / JEE 
         time: 2006 - 2008
-        company: Apside TOP, Tours
+        company: Apside TOP, Tours - Java - JEE - HTML - CSS
         details: |
           Mise en place d'applications Web en tant qu’expert JEE en prestation chez Coface Services et accompagnement du personnels interne dans sa montée en compétences . 
           Rôle de tech lead au sein des équipes.
 
       - role: Chef de projet technique
         time: 2004 - 2006
-        company: Delta Informatique, Tours
+        company: Delta Informatique, Tours - Java - JEE - HTML - CSS
         details: |
           Mise en place de sites web (secteur banque et assurances) en JEE (déployés sur Weblogic) comme développeur expert puis chef de projets techniques (spécifications techniques, développement et mise en place chez les clients) sur les mêmes technologies.
 
       - role: Ingénieur Java / JEE
         time: 2002 - 2004
-        company: Prima Solutions, Paris
+        company: Prima Solutions, Paris - Java - JEE - HTML - CSS
         details: |
           Développement de front end et back end dans le secteur assurance et pour le site assurland.com. Accompagnement clientèle pour le déploiement de solutions JEE / Weblogic.
 
