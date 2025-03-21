@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Stéphane Philippart
-    tagline: Developer Relation / Technical Writer
+    tagline: Developer Relation / Developer Advocate
     avatar: stephane_philippart.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -93,10 +93,11 @@ experiences:
         details: |
           Developer Advocate within the OVHcloud public cloud teams and more specifically Artificial Intelligence and native cloud.  
           Zero client with product teams to test products.  
-          Technical writer for official guides and company blog posts.  
           Participation in conferences as a speaker and stand management.  
           Animations of development communities internally and externally.  
+          Technical writer for official guides and company blog posts.  
           POC development and demos.  
+          Participation in product evolutions in close collaboration with the PO and PM.  
           Organization and animation of the team life as team lead (4 people).
       - role: Software Architect / Platform engineer
         time: 2008 - 2022
@@ -163,14 +164,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Tech writer
-        level: 100%
       - name: AI (Machine Learning)
         level: 90%
       - name: Speaker
         level: 100%
       - name: Evangelisation
         level: 100%
+      - name: Tech writer
+        level: 100%
+
+      - name: Cloud
+        level: 95%
+      - name: Technical and software architecture
+        level: 90%
 
       - name: Docker
         level: 90%
@@ -180,11 +186,6 @@ skills:
       - name: Jenkins
         level: 98%
       - name: DevOps
-        level: 90%
-
-      - name: Cloud
-        level: 95%
-      - name: Technical and software architecture
         level: 90%
 
       - name: Java
